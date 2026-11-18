@@ -1,0 +1,8 @@
+# Transient worktrees created by background agents
+.claude/worktrees/
+
+# Skills install dir — reproducible from skills-lock.json
+.claude/skills/
+
+# Local-only settings
+.claude/settings.local.json
